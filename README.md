@@ -2,7 +2,7 @@
 My Data Science projects
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner_data_science.png" >
 </p>
 
 # Rodrigo Schammass
@@ -20,4 +20,4 @@ As a Data Scientist I combine analytical skills, ability to work in team environ
 
 ## Projects:
 
-* **Identify if a patient will die or not due to head and neck cancer according to the dataset obtained from the website http://www.cbioportal.org/study/summary?id=hnsc_tcga applying Classification models in Machine Learning. The request was done by Dr. Sabrina Daniela Silva Wurzba, DDS, MSc, Ph.D. from the Department of Otolaryngology-Head and Neck Surgery Faculty of Medicine - McGill University, Montreal, Canada.**
+* **Identify if a patient will die or not due to head and neck cancer according to the dataset obtained from the website http://www.cbioportal.org/study/summary?id=hnsc_tcga applying Classification models in Machine Learning. The request was done by Dr. Sabrina Daniela Silva Wurzba, DDS, MSc, Ph.D., Assistant Professor from the Department of Otolaryngology-Head and Neck Surgery Faculty of Medicine - McGill University, Montreal, Canada.**
