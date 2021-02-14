@@ -8,16 +8,21 @@ My Data Science projects
 # Rodrigo Schammass
 <sub>*Data Scientist*</sub>
 
-As a Data Scientist I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last year applying Machine Learning to real problems, I developed a critical thinking and problem-solving skills.
+I have been working in customer service and sales for more than 23 years. I am also passionate about technologies. Last year, I finished my studies in Data Science and I could develop 2 projects, one concerning flight delays and the other about Cancer. Currently, I am studying Cloud Computing in order to take my AWS and Azure Certifications. From January 25 to January 31, 2020, I could deploy 4 Cloud projects using AWS, Azure, Google Cloud, and Oracle Cloud in the MultiCloud Experience event at Cloud Bootcamp.
 
-**Education : ** Specialization - Applied Data Science with Python at University of Michigan, Ann Arbor, MI, USA.
+I always was known as an IT guy in all companies that I worked for. Even though my position title was not concerning the IT area, my colleagues and friends always ask me to help them to repair their laptops, install software, add new apps and devices, deploy a new system, configure the network, etc.
 
-**Computer skills :** Python, Machine Learning, .
+My satisfaction is to surprise my customers' expectations in order to keep their trust and loyalty. I am a proactive, leader, good talker, I like to share my skills and knowledge with my colleagues as well as to learn with them. I able to work under pressure and I am a problem solver. l am really hard worker and I will never let you down. If you want to know more about me, please do not hesitate to contact me. I will be glad to discuss with you how I may help you to solve your issue.
+.
+
+**Education:** Specialization - Applied Data Science with Python at University of Michigan, Ann Arbor, MI, USA.
+
+**Computer skills:** Python, Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, SQL, Hadoop, Spark, Docker, AWS and Azure.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/rodrigo-schammass-756a3015/)
+* [LinkedIn](https://www.linkedin.com/in/rodrigo-schammass)
 
 
 ## Projects:
 
-* **Identify if a patient will die or not due to head and neck cancer according to the dataset obtained from the website http://www.cbioportal.org/study/summary?id=hnsc_tcga applying Classification models in Machine Learning. The request was done by Dr. Sabrina Daniela Silva Wurzba, DDS, MSc, Ph.D., Assistant Professor from the Department of Otolaryngology-Head and Neck Surgery Faculty of Medicine - McGill University, Montreal, Canada.**
+***Identify if a patient will die or not due to head and neck cancer according to the dataset obtained from the website http://www.cbioportal.org/study/summary?id=hnsc_tcga applying Classification models in Machine Learning. The request was done by Dr. Sabrina Daniela Silva Wurzba, DDS, MSc, Ph.D., Assistant Professor from the Department of Otolaryngology-Head and Neck Surgery Faculty of Medicine - McGill University, Montreal, Canada.***
