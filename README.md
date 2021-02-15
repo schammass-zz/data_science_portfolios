@@ -2,7 +2,7 @@
 My Data Science projects
 
 <p align="center">
-  <img src="banner_data_science2.jfif" >
+  <img src="banner_data_science.png" >
 </p>
 
 # Rodrigo Schammass
