@@ -14,7 +14,7 @@ My satisfaction is to surprise my customers' expectations in order to keep their
 
 **Education:** Specialization - Applied Data Science with Python at University of Michigan, Ann Arbor, MI, USA.
 
-**Computer skills:** Python, Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, SQL, Hadoop, Spark, Docker, AWS, Azure, Java, C#, Javascript.
+**IT skills:** Python, Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, Deep Learning, Keras, Tensorflow, SQL, Hadoop, Spark, Docker, AWS, Azure, Java, C#, Javascript.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rodrigo-schammass-756a3015/)
