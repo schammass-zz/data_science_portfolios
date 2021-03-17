@@ -25,5 +25,5 @@ My satisfaction is to surprise my customers' expectations in order to keep their
 * ***Identify if a patient will die or not due to head and neck cancer according to the dataset obtained from the website http://www.cbioportal.org/study/summary?id=hnsc_tcga applying Classification models in Machine Learning. The request was done by Dr. Sabrina Daniela Silva Wurzba, DDS, MSc, Ph.D., Assistant Professor from the Department of Otolaryngology-Head and Neck Surgery Faculty of Medicine - McGill University, Montreal, Canada.*** ´[Click here](https://bit.ly/2Ncj14R)
 
 
-* ###Credit card fraud detection with Machine Learning ´[Click here](https://bit.ly/3bRGi5O)
+* ***Credit card fraud detection with Machine Learning ´[Click here](https://bit.ly/3bRGi5O)
 
