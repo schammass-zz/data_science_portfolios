@@ -8,7 +8,7 @@ My Data Science projects
 # Rodrigo Schammass
 <sub>*Data Scientist*</sub>
 
-I have been working in customer service and sales for more than 23 years. I am also passionate about technologies. Last year, I finished my studies in Data Science and I could develop some projects. 
+Professional with a extensive experience in customer service and sales and, also passionate about technologies. Last year, I finished my studies in Data Science and I could develop some projects. 
 
 In January, 2021, I could deploy four Cloud projects using AWS, Azure, Google Cloud, and Oracle Cloud in the MultiCloud Experience event at Cloud Bootcamp.
 
