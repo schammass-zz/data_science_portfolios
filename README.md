@@ -24,5 +24,5 @@ My satisfaction is to surprise my customers' expectations in order to keep their
 ## Projects:
 
 * **Identify if a patient will die or not due to head and neck cancer.** [Click here](https://bit.ly/3dgZuKY)
-* **Credit card fraud detection.** [Click here](https://bit.ly/3bRGi5O)
+* **Credit card fraud detection.** [Click here](https://bit.ly/2Qx8ToY)
 
