@@ -16,7 +16,9 @@ In March 2021, I could also deploy 5 projects at Azure Cloud Challenge promoted 
 My satisfaction is to surprise my customers' expectations in order to keep their trust and loyalty. I am a proactive, leader, good talker, I like to share my skills and knowledge with my colleagues as well as to learn with them. I able to work under pressure and I am a problem solver. l am really hard worker and I will never let you down. If you want to know more about me, please do not hesitate to contact me. I will be glad to discuss with you how I may help you to solve your issue.
 
 * **Education:** Specialization - Applied Data Science with Python at University of Michigan, Ann Arbor, MI, USA.
-* **IT skills:** Python, PySpark, Pandas, Numpy, Matplotlib, Seaborn, Machine Learning, Deep Learning, Keras, Tensorflow, SQL, Hadoop, Spark, Docker, AWS, Azure, Google Cloud, Oracle Cloud, Java, C#, Javascript.
+* **Education:** Data Science - Machine Learning at Cégep Sainte-Foy, Québec City, QC, Canada.
+
+* **IT skills:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, Tensorflow, SQL, Hadoop, HDFS, Spark, MongoDB, Redis, Kafka, Docker, AWS, Azure, Google Cloud, Oracle Cloud, Java, C# and Javascript.
 * **Links:**
   * [LinkedIn](https://www.linkedin.com/in/rodrigo-schammass)
 
