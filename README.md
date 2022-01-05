@@ -20,6 +20,7 @@ Spark, Scala, Databricks, PySpark, Python and its libraries (Pandas, Numpy, Matp
 * **Education:** 
 * Courses/Programs in Progress:
 
+DP-203: Data Engineer on Microsoft Azure, Whizlabs, Bangalore, India
 AEC – Expert in Big Data and BI, CÉGEP Sainte-Foy, QC, Canada
 Data Scientist with Python, Datacamp
 
