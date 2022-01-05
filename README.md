@@ -1,11 +1,11 @@
-# My Data Science Portfolios
+# My Portfolios
 
 <p align="center">
   <img src="banner_data_science.png" >
 </p>
 
 # Rodrigo Schammass
-<sub>*Data Scientist / Data Engineer*</sub>
+<sub>*Data Scientist | Data Engineer*</sub>
 
 * **Profile**:
 
