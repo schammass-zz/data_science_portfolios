@@ -31,7 +31,7 @@ PySpark, Udemy, 2021
 Machine Learning with Python, Didatica Tech, Brazil, 2020
 
 
-* **Certificates**:  Microsoft Certified: Azure Fundamentals
+* **Certificates**:  Microsoft Certified: Azure Fundamentals [Click here] (https://www.credly.com/badges/498f3dc3-81f8-4b08-9384-c2099d7d3a61?source=linked_in_profile)
 
 * **Links:**
   * [LinkedIn](https://www.linkedin.com/in/rodrigo-schammass)
