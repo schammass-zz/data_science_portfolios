@@ -5,23 +5,36 @@
 </p>
 
 # Rodrigo Schammass
-<sub>*Data Scientist*</sub>
+<sub>*Data Scientist / Data Engineer*</sub>
 
-Professional with a extensive experience in customer service and sales and, also passionate about technologies. Last year, I finished my studies in Data Science and I could develop some projects. 
+* **Profile**:
 
-In January 2021, I could deploy four Cloud projects using AWS, Azure, Google Cloud, and Oracle Cloud in the MultiCloud Experience event at Cloud Bootcamp.
+* Expertise in collecting, sourcing, and organizing structured and unstructured data into usable formats.
+* A track record of enhancing processes, setting up data infrastructure and building predictive models and machine learning algorithms.
+* Proactive, autonomous, able to generate information and insights from data sets, identify trends and patterns as well as find answers to specific questions on products and services through different tools.
+* Extensive experience in customer care and sales, identifying relevant data sources for business needs.
 
-In March 2021, I could also deploy 5 projects at Azure Cloud Challenge promoted by TFTEC. The most challenge in this event was to create structures of Cognitive Services, Cosmos DB, and Logic App. Configure Logic App and synchronize with Cosmos DB. Create and configure Service Plan and App Services. Deploy Webapp via Github. All this so that when someone posted #partiunuvem with any image on Twitter, the Machine Learning from Azure could do the text and image recognition giving descriptive details of each image posted.
+* **IT Competences:**
+Spark, Scala, Databricks, PySpark, Python and its libraries (Pandas, Numpy, Matplotlib, Seaborn, Keras and Tensorflow), SQL Server, MySQL, Hadoop, HDFS, Hive, Hbase, Airflow, Docker, Kubernetes, MongoDB, Redis, ElasticSearch, AWS, Azure, Google Cloud, Oracle Cloud, OneDrive, Google Drive, R, Java, Agile (Scrum and Kanban), Microsoft Power BI and Microsoft Office.
 
-My satisfaction is to surprise my customers' expectations in order to keep their trust and loyalty. I am a proactive, leader, good talker, I like to share my skills and knowledge with my colleagues as well as to learn with them. I able to work under pressure and I am a problem solver. l am really hard worker and I will never let you down. If you want to know more about me, please do not hesitate to contact me. I will be glad to discuss with you how I may help you to solve your issue.
+* **Education:** 
+* Courses/Programs in Progress:
 
-* **Education:** Specialization - Applied Data Science with Python at University of Michigan, Ann Arbor, MI, USA.
-* **Education:** Data Science - Machine Learning at Cégep Sainte-Foy, Québec City, QC, Canada.
+AEC – Expert in Big Data and BI, CÉGEP Sainte-Foy, QC, Canada
+Data Scientist with Python, Datacamp
 
-* **IT skills:** Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Keras, Tensorflow, SQL, Hadoop, HDFS, Spark, MongoDB, Redis, Kafka, Docker, AWS, Azure, Google Cloud, Oracle Cloud, Java, C# and Javascript.
+* Courses/Program Completed
+
+Data Science – Machine Learning, CÉGEP Sainte-Foy, QC, Canada, 2021
+Big Data Engineer, Semantix Academy, Brazil, 2021
+PySpark, Udemy, 2021
+Machine Learning with Python, Didatica Tech, Brazil, 2020
+
+
+* **Certificates**:  Microsoft Certified: Azure Fundamentals
+
 * **Links:**
   * [LinkedIn](https://www.linkedin.com/in/rodrigo-schammass)
-
 
 ## Projects:
 
