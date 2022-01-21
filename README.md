@@ -41,4 +41,5 @@ Machine Learning with Python, Didatica Tech, Brazil, 2020
 
 * **Identify if a patient will die or not due to head and neck cancer.** [Click here](https://bit.ly/3dgZuKY)
 * **Credit card fraud detection.** [Click here](https://bit.ly/2Qx8ToY)
+* **Data Analysis of products sold in different Brazilian cities** [Click here](https://bit.ly/3Aj9UUa)
 
